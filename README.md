@@ -54,22 +54,35 @@ We have discussed it with several projects. Some new ideas comparing to Tor PKI:
 
 ## References
 
-[1] (Anonymous P2P)[https://en.wikipedia.org/wiki/Anonymous_P2P]
-[2] (Mix Network)[https://en.wikipedia.org/wiki/Mix_Network]
-[3] The Loopix Anonymity System, (paper)[https://arxiv.org/abs/1703.00536, (code)[https://github.com/UCL-InfoSec/loopix/]
-[4] (Dissent paper)[https://www.usenix.org/system/files/conference/osdi12/osdi12-final-115.pdf]
-[5] HORNET: High-speed Onion Routing at the Network Layer, (paper)[https://www.scion-architecture.net/pdf/2015-HORNET.pdf]
-[6] Vuvuzela: Scalable private messaging resistant to traffic analysis, (paper)[https://people.csail.mit.edu/nickolai/papers/vandenhooff-vuvuzela.pdf], (news)[http://news.mit.edu/2015/untraceable-anonymized-communication-guaranteed-1207], (code)[https://github.com/vuvuzela/vuvuzela]
-[7] (Public Key infrastructure)[https://en.wikipedia.org/wiki/Public_key_infrastructure]
-[8] (X.509 security)[https://en.wikipedia.org/wiki/X.509#Security]
-[10] (Web of trust)[https://en.wikipedia.org/wiki/Web_of_trust]
-[9] (Tor protocol specification)[https://gitweb.torproject.org/torspec.git/tree/tor-spec.txt], (Tor directory protocol)[https://gitweb.torproject.org/torspec.git/tree/dir-spec.txt], (tor-dev proposal: Consensus Hash Chaining)[https://lists.torproject.org/pipermail/tor-dev/2015-January/008087.html]
-[11] (Panoramix)[https://panoramix-project.eu/]
-[12] (Cothority)[[17] https://github.com/dedis/cothority]
-[13] (LEAP)[https://leap.se], (LEAP documentation)[https://github.com/leapcode/leap_doc]
-[14] (applied-mixnetworks)[https://github.com/applied-mixnetworks]
+[1] [Anonymous P2P](https://en.wikipedia.org/wiki/Anonymous_P2P)
+
+[2] [Mix Network](https://en.wikipedia.org/wiki/Mix_Network)
+
+[3] The Loopix Anonymity System, [paper](https://arxiv.org/abs/1703.00536, [code](https://github.com/UCL-InfoSec/loopix/)
+
+[4] [Dissent paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-115.pdf)
+
+[5] HORNET: High-speed Onion Routing at the Network Layer, [paper](https://www.scion-architecture.net/pdf/2015-HORNET.pdf)
+
+[6] Vuvuzela: Scalable private messaging resistant to traffic analysis, [paper](https://people.csail.mit.edu/nickolai/papers/vandenhooff-vuvuzela.pdf), [news](http://news.mit.edu/2015/untraceable-anonymized-communication-guaranteed-1207), [code](https://github.com/vuvuzela/vuvuzela)
+
+[7] [Public Key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+
+[8] [X.509 security](https://en.wikipedia.org/wiki/X.509#Security)
+
+[9] [Web of trust](https://en.wikipedia.org/wiki/Web_of_trust)
+
+[10] [Tor protocol specification](https://gitweb.torproject.org/torspec.git/tree/tor-spec.txt), [Tor directory protocol](https://gitweb.torproject.org/torspec.git/tree/dir-spec.txt), [tor-dev proposal: Consensus Hash Chaining](https://lists.torproject.org/pipermail/tor-dev/2015-January/008087.html)
+
+[11] [Panoramix](https://panoramix-project.eu/)
+
+[12] [Cothority] (https://github.com/dedis/cothority)
+
+[13] [LEAP](https://leap.se), [LEAP documentation](https://github.com/leapcode/leap_doc)
+
+[14] [applied-mixnetworks](https://github.com/applied-mixnetworks)
 
 [] Sphinx: A Compact and Provably Secure Mix Format,
-http://research.microsoft.com/en-us/um/people/gdane/papers/sphinx-eprint.pdf, https://cryps.uwaterloo.ca/software/Sphinx-0.8.tar.gz
-[] https://github.com/grnet/panoramix
-[] https://tahoe-lafs.org
+[paper](http://research.microsoft.com/en-us/um/people/gdane/papers/sphinx-eprint.pdf), (https://cryps.uwaterloo.ca/software/Sphinx-0.8.tar.gz)
+[] [Panoramix cod](https://github.com/grnet/panoramix)
+[] [Tahoe-Lafs](https://tahoe-lafs.org)
