@@ -88,7 +88,9 @@ Notes
 -------
 
 The detailed specifications are going to be developed in mixspecs [#]_
-repository
+repository.
+
+There is a mix networks bibliography [#]_ with selected research papers.
 
 
 References
@@ -133,6 +135,9 @@ References
 .. [#] applied-mixnetworks: https://github.com/applied-mixnetworks
 
 .. [#] mixspecs: https://github.com/applied-mixnetworks/mixspecs/blob/master/proposals/apki_spec.rst
+
+.. [#] Mix-Networks bibliography: bib.mixnetworks.org,
+       code: https://github.com/applied-mixnetworks/mixbib
 
 Other references
 -----------------
