@@ -71,7 +71,7 @@ Important milestones
 ---------------------
 
 -  Further communication with projects interested in the PKI
-   implementation, Tor, Panoramix, LEAP [#]_ and applied-mixnetworks [#]_.
+   implementation, Tor, Panoramix [#]_, LEAP [#]_ and applied-mixnetworks [#]_.
 -  Write an specification document about the design.
 -  Implement the server side:
    -  Write a flexible API for network node information.
@@ -125,9 +125,9 @@ References
        Tor directory protocol: https://gitweb.torproject.org/torspec.git/tree/dir-spec.txt>,
        tor-dev proposal Consensus Hash Chaining: https://lists.torproject.org/pipermail/tor-dev/2015-January/008087.html
 
-.. [#] Panoramix: https://panoramix-project.eu/
-
 .. [#] Cothority: https://github.com/dedis/cothority
+
+.. [#] Panoramix: https://panoramix-project.eu/
 
 .. [#] LEAP: https://leap.se,
        LEAP documentation: https://github.com/leapcode/leap_doc
