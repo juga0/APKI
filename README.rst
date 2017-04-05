@@ -87,6 +87,12 @@ Important milestones
 Notes
 -------
 
+In this document the use of the terms `privacy systems`,
+`privacy networks`, `security systems` and `anonymity networks` as
+synonyms, refering to computer networks that might by composed by
+different elements (from here the term systems) and designed focusing on
+privacy, anonymity and/or security.
+
 The detailed specifications are going to be developed in mixspecs [#]_
 repository.
 
